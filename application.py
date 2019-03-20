@@ -10,5 +10,5 @@ def hello():
 def st():
     return "Hello from st route!"
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
